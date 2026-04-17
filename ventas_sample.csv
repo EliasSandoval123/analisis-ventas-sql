@@ -1,0 +1,101 @@
+id_venta,fecha,id_vendedor,vendedor,region,producto,categoria,cantidad,precio_unitario,descuento,cliente
+1,2024-01-03,V01,Carolina Muñoz,Norte,Laptop Pro 15,Tecnología,1,850000,0.05,Empresa A
+2,2024-01-05,V02,Rodrigo Pérez,Sur,Silla Ergonómica,Mobiliario,4,120000,0.00,Empresa B
+3,2024-01-08,V03,Andrea Soto,Centro,Monitor 27",Tecnología,2,280000,0.10,Empresa C
+4,2024-01-10,V01,Carolina Muñoz,Norte,Teclado Mecánico,Tecnología,5,45000,0.00,Empresa D
+5,2024-01-12,V04,Felipe Lagos,Este,Escritorio Ejecutivo,Mobiliario,2,350000,0.05,Empresa A
+6,2024-01-15,V02,Rodrigo Pérez,Sur,Laptop Pro 15,Tecnología,2,850000,0.10,Empresa E
+7,2024-01-18,V05,Valentina Cruz,Oeste,Audífonos BT,Tecnología,10,35000,0.00,Empresa F
+8,2024-01-20,V03,Andrea Soto,Centro,Silla Ergonómica,Mobiliario,6,120000,0.05,Empresa B
+9,2024-01-22,V01,Carolina Muñoz,Norte,Monitor 27",Tecnología,3,280000,0.00,Empresa G
+10,2024-01-25,V04,Felipe Lagos,Este,Laptop Pro 15,Tecnología,1,850000,0.15,Empresa C
+11,2024-01-28,V05,Valentina Cruz,Oeste,Escritorio Ejecutivo,Mobiliario,1,350000,0.00,Empresa H
+12,2024-02-01,V02,Rodrigo Pérez,Sur,Teclado Mecánico,Tecnología,8,45000,0.05,Empresa D
+13,2024-02-04,V03,Andrea Soto,Centro,Laptop Pro 15,Tecnología,2,850000,0.00,Empresa I
+14,2024-02-06,V01,Carolina Muñoz,Norte,Audífonos BT,Tecnología,15,35000,0.10,Empresa J
+15,2024-02-08,V04,Felipe Lagos,Este,Silla Ergonómica,Mobiliario,3,120000,0.00,Empresa A
+16,2024-02-10,V05,Valentina Cruz,Oeste,Monitor 27",Tecnología,4,280000,0.05,Empresa B
+17,2024-02-13,V02,Rodrigo Pérez,Sur,Escritorio Ejecutivo,Mobiliario,2,350000,0.10,Empresa K
+18,2024-02-15,V03,Andrea Soto,Centro,Teclado Mecánico,Tecnología,6,45000,0.00,Empresa L
+19,2024-02-18,V01,Carolina Muñoz,Norte,Laptop Pro 15,Tecnología,3,850000,0.05,Empresa M
+20,2024-02-20,V04,Felipe Lagos,Este,Monitor 27",Tecnología,2,280000,0.00,Empresa N
+21,2024-02-22,V05,Valentina Cruz,Oeste,Silla Ergonómica,Mobiliario,5,120000,0.05,Empresa C
+22,2024-02-25,V02,Rodrigo Pérez,Sur,Audífonos BT,Tecnología,12,35000,0.00,Empresa O
+23,2024-02-28,V03,Andrea Soto,Centro,Laptop Pro 15,Tecnología,1,850000,0.10,Empresa P
+24,2024-03-03,V01,Carolina Muñoz,Norte,Escritorio Ejecutivo,Mobiliario,2,350000,0.00,Empresa Q
+25,2024-03-05,V04,Felipe Lagos,Este,Teclado Mecánico,Tecnología,10,45000,0.05,Empresa R
+26,2024-03-08,V05,Valentina Cruz,Oeste,Laptop Pro 15,Tecnología,2,850000,0.00,Empresa S
+27,2024-03-10,V02,Rodrigo Pérez,Sur,Monitor 27",Tecnología,3,280000,0.10,Empresa T
+28,2024-03-12,V03,Andrea Soto,Centro,Silla Ergonómica,Mobiliario,4,120000,0.00,Empresa A
+29,2024-03-15,V01,Carolina Muñoz,Norte,Audífonos BT,Tecnología,20,35000,0.05,Empresa B
+30,2024-03-18,V04,Felipe Lagos,Este,Laptop Pro 15,Tecnología,2,850000,0.15,Empresa U
+31,2024-03-20,V05,Valentina Cruz,Oeste,Escritorio Ejecutivo,Mobiliario,3,350000,0.00,Empresa V
+32,2024-03-22,V02,Rodrigo Pérez,Sur,Teclado Mecánico,Tecnología,7,45000,0.05,Empresa W
+33,2024-03-25,V03,Andrea Soto,Centro,Monitor 27",Tecnología,2,280000,0.00,Empresa X
+34,2024-03-28,V01,Carolina Muñoz,Norte,Silla Ergonómica,Mobiliario,3,120000,0.10,Empresa Y
+35,2024-04-01,V04,Felipe Lagos,Este,Laptop Pro 15,Tecnología,1,850000,0.00,Empresa Z
+36,2024-04-03,V05,Valentina Cruz,Oeste,Audífonos BT,Tecnología,8,35000,0.05,Empresa A
+37,2024-04-05,V02,Rodrigo Pérez,Sur,Laptop Pro 15,Tecnología,3,850000,0.00,Empresa B
+38,2024-04-08,V03,Andrea Soto,Centro,Escritorio Ejecutivo,Mobiliario,2,350000,0.10,Empresa C
+39,2024-04-10,V01,Carolina Muñoz,Norte,Teclado Mecánico,Tecnología,12,45000,0.00,Empresa D
+40,2024-04-12,V04,Felipe Lagos,Este,Monitor 27",Tecnología,3,280000,0.05,Empresa E
+41,2024-04-15,V05,Valentina Cruz,Oeste,Silla Ergonómica,Mobiliario,4,120000,0.00,Empresa F
+42,2024-04-18,V02,Rodrigo Pérez,Sur,Laptop Pro 15,Tecnología,2,850000,0.10,Empresa G
+43,2024-04-20,V03,Andrea Soto,Centro,Audífonos BT,Tecnología,6,35000,0.00,Empresa H
+44,2024-04-22,V01,Carolina Muñoz,Norte,Laptop Pro 15,Tecnología,2,850000,0.05,Empresa I
+45,2024-04-25,V04,Felipe Lagos,Este,Escritorio Ejecutivo,Mobiliario,1,350000,0.00,Empresa J
+46,2024-05-02,V05,Valentina Cruz,Oeste,Monitor 27",Tecnología,5,280000,0.10,Empresa K
+47,2024-05-05,V02,Rodrigo Pérez,Sur,Teclado Mecánico,Tecnología,9,45000,0.00,Empresa L
+48,2024-05-08,V03,Andrea Soto,Centro,Laptop Pro 15,Tecnología,3,850000,0.05,Empresa M
+49,2024-05-10,V01,Carolina Muñoz,Norte,Silla Ergonómica,Mobiliario,5,120000,0.00,Empresa N
+50,2024-05-12,V04,Felipe Lagos,Este,Audífonos BT,Tecnología,15,35000,0.10,Empresa O
+51,2024-05-15,V05,Valentina Cruz,Oeste,Laptop Pro 15,Tecnología,1,850000,0.00,Empresa P
+52,2024-05-18,V02,Rodrigo Pérez,Sur,Escritorio Ejecutivo,Mobiliario,2,350000,0.05,Empresa Q
+53,2024-05-20,V03,Andrea Soto,Centro,Monitor 27",Tecnología,3,280000,0.00,Empresa R
+54,2024-05-22,V01,Carolina Muñoz,Norte,Teclado Mecánico,Tecnología,8,45000,0.10,Empresa S
+55,2024-05-25,V04,Felipe Lagos,Este,Laptop Pro 15,Tecnología,2,850000,0.00,Empresa T
+56,2024-06-02,V05,Valentina Cruz,Oeste,Silla Ergonómica,Mobiliario,6,120000,0.05,Empresa U
+57,2024-06-05,V02,Rodrigo Pérez,Sur,Monitor 27",Tecnología,4,280000,0.00,Empresa V
+58,2024-06-08,V03,Andrea Soto,Centro,Laptop Pro 15,Tecnología,2,850000,0.10,Empresa W
+59,2024-06-10,V01,Carolina Muñoz,Norte,Audífonos BT,Tecnología,18,35000,0.00,Empresa X
+60,2024-06-12,V04,Felipe Lagos,Este,Escritorio Ejecutivo,Mobiliario,2,350000,0.05,Empresa Y
+61,2024-06-15,V05,Valentina Cruz,Oeste,Teclado Mecánico,Tecnología,7,45000,0.00,Empresa Z
+62,2024-06-18,V02,Rodrigo Pérez,Sur,Laptop Pro 15,Tecnología,3,850000,0.15,Empresa A
+63,2024-06-20,V03,Andrea Soto,Centro,Silla Ergonómica,Mobiliario,3,120000,0.05,Empresa B
+64,2024-06-22,V01,Carolina Muñoz,Norte,Monitor 27",Tecnología,2,280000,0.00,Empresa C
+65,2024-06-25,V04,Felipe Lagos,Este,Laptop Pro 15,Tecnología,1,850000,0.10,Empresa D
+66,2024-07-02,V05,Valentina Cruz,Oeste,Audífonos BT,Tecnología,10,35000,0.00,Empresa E
+67,2024-07-05,V02,Rodrigo Pérez,Sur,Escritorio Ejecutivo,Mobiliario,1,350000,0.05,Empresa F
+68,2024-07-08,V03,Andrea Soto,Centro,Teclado Mecánico,Tecnología,5,45000,0.00,Empresa G
+69,2024-07-10,V01,Carolina Muñoz,Norte,Laptop Pro 15,Tecnología,4,850000,0.00,Empresa H
+70,2024-07-12,V04,Felipe Lagos,Este,Silla Ergonómica,Mobiliario,2,120000,0.10,Empresa I
+71,2024-07-15,V05,Valentina Cruz,Oeste,Monitor 27",Tecnología,3,280000,0.00,Empresa J
+72,2024-07-18,V02,Rodrigo Pérez,Sur,Laptop Pro 15,Tecnología,2,850000,0.05,Empresa K
+73,2024-07-20,V03,Andrea Soto,Centro,Audífonos BT,Tecnología,12,35000,0.10,Empresa L
+74,2024-07-22,V01,Carolina Muñoz,Norte,Escritorio Ejecutivo,Mobiliario,3,350000,0.00,Empresa M
+75,2024-07-25,V04,Felipe Lagos,Este,Teclado Mecánico,Tecnología,6,45000,0.05,Empresa N
+76,2024-08-02,V05,Valentina Cruz,Oeste,Laptop Pro 15,Tecnología,2,850000,0.00,Empresa O
+77,2024-08-05,V02,Rodrigo Pérez,Sur,Silla Ergonómica,Mobiliario,4,120000,0.10,Empresa P
+78,2024-08-08,V03,Andrea Soto,Centro,Monitor 27",Tecnología,3,280000,0.00,Empresa Q
+79,2024-08-10,V01,Carolina Muñoz,Norte,Laptop Pro 15,Tecnología,2,850000,0.05,Empresa R
+80,2024-08-12,V04,Felipe Lagos,Este,Audífonos BT,Tecnología,8,35000,0.00,Empresa S
+81,2024-08-15,V05,Valentina Cruz,Oeste,Escritorio Ejecutivo,Mobiliario,2,350000,0.10,Empresa T
+82,2024-08-18,V02,Rodrigo Pérez,Sur,Teclado Mecánico,Tecnología,10,45000,0.00,Empresa U
+83,2024-08-20,V03,Andrea Soto,Centro,Laptop Pro 15,Tecnología,1,850000,0.05,Empresa V
+84,2024-08-22,V01,Carolina Muñoz,Norte,Silla Ergonómica,Mobiliario,4,120000,0.00,Empresa W
+85,2024-08-25,V04,Felipe Lagos,Este,Monitor 27",Tecnología,2,280000,0.10,Empresa X
+86,2024-09-02,V05,Valentina Cruz,Oeste,Laptop Pro 15,Tecnología,3,850000,0.00,Empresa Y
+87,2024-09-05,V02,Rodrigo Pérez,Sur,Audífonos BT,Tecnología,14,35000,0.05,Empresa Z
+88,2024-09-08,V03,Andrea Soto,Centro,Escritorio Ejecutivo,Mobiliario,2,350000,0.00,Empresa A
+89,2024-09-10,V01,Carolina Muñoz,Norte,Teclado Mecánico,Tecnología,9,45000,0.10,Empresa B
+90,2024-09-12,V04,Felipe Lagos,Este,Laptop Pro 15,Tecnología,2,850000,0.00,Empresa C
+91,2024-09-15,V05,Valentina Cruz,Oeste,Silla Ergonómica,Mobiliario,3,120000,0.05,Empresa D
+92,2024-09-18,V02,Rodrigo Pérez,Sur,Monitor 27",Tecnología,2,280000,0.00,Empresa E
+93,2024-09-20,V03,Andrea Soto,Centro,Laptop Pro 15,Tecnología,3,850000,0.10,Empresa F
+94,2024-09-22,V01,Carolina Muñoz,Norte,Audífonos BT,Tecnología,16,35000,0.00,Empresa G
+95,2024-09-25,V04,Felipe Lagos,Este,Escritorio Ejecutivo,Mobiliario,1,350000,0.05,Empresa H
+96,2024-10-02,V05,Valentina Cruz,Oeste,Teclado Mecánico,Tecnología,8,45000,0.00,Empresa I
+97,2024-10-05,V02,Rodrigo Pérez,Sur,Laptop Pro 15,Tecnología,4,850000,0.15,Empresa J
+98,2024-10-08,V03,Andrea Soto,Centro,Silla Ergonómica,Mobiliario,5,120000,0.05,Empresa K
+99,2024-10-10,V01,Carolina Muñoz,Norte,Monitor 27",Tecnología,3,280000,0.00,Empresa L
+100,2024-10-12,V04,Felipe Lagos,Este,Laptop Pro 15,Tecnología,2,850000,0.10,Empresa M
